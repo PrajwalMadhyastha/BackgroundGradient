@@ -26,10 +26,10 @@ h3 {
 
 }
 button {
-    color: #444444;
-    background: #F3F3F3;
-    border: 1px #DADADA solid;
-    padding: 5px 10px;
+    color: #FFF;
+    background: #3498db;
+    border: 1px #3498db solid;
+    padding: 1px 13px;
     border-radius: 2px;
     font-weight: bold;
     font-size: 9pt;
